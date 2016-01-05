@@ -29,6 +29,7 @@ published: true
 
 
     {{ 'application.css' | stylesheet_tag }}
+    {{ 'styles.css' | stylesheet_tag }}
 
     <!--[if lt IE 9]>
       <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -42,7 +43,7 @@ published: true
     {% inline_editor %}
 
   </head>
-  <body>
+  <body class="page-{{ page.slug }}">
     <div class="container">
       <!-- Site Title -->
 	<div class="row">
@@ -94,6 +95,7 @@ published: true
     </div>
     <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     {{ 'bootstrap.min.js' | javascript_tag }}
+    {{ 'main.js' | javascript_tag }}
     <script type='text/javascript'>
       $(document).ready(function() {
       });
