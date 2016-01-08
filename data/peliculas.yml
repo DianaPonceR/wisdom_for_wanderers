@@ -1,0 +1,980 @@
+- "Actores S.A.":
+    ids: 1
+    categoria: 1
+    anio: 2008
+    pais: "México"
+    duracion: 0
+    director: "Carlos González Sariñana"
+    produccion: "Pedro Cueva Vidal"
+    guion: "Carolina Rivera, Carlos González Sariñana"
+    fotografia: "Celiana Cárdenas"
+    edicion: "Óscar Figueroa"
+    sonido: "Federico González Jordán"
+    musica: "Alex Cuevas, Alex Sánchez"
+    direccion_de_arte: "Marina Viancini"
+    companias_productoras: "Producciones Corazón, EFICINE 226"
+    formato: "S16 mm"
+    sinopsis: "Tomás es un joven actor, hijo adoptivo de Don Antonio, director y fundador de La Compañia teatral a la que pertenece y del ruinoso teatro donde presentan sus obras. Al morir Don Antonio, Tomás recurre a sus dotes artísticos y de la Compañia para salvar el teatro de las ambiciosas garras de Mauro, sobrino de Don Antonio. Montan una página web donde ofrecen sus servicios actorales a cualquiera que los necesite fuera del escenario. La Compañia es contratada para evitar ña boda de Rebeca. Unas herencia está en juego y caminos inesperados llevan al amor, pero el engaño sale a la luz dolorosamente."
+    premios: 
+    representante: "Patricia Sariñana Márquez"
+    calle_y_numero: "Edgar Allan Poe 236"
+    imagen: samples/peliculas/actores-sa.jpeg # Path to a file in the public/samples folder or to a remote and external file.
+    colonia: "Col. Polanco"
+    codigo_postal: "11510"
+    telefono_1: "5255 1450 3832, 1450 3833"
+    telefono_2: 
+    movil: 
+    correo_1: "corazoncorp@corazoncorp.mx"
+    correo_2: 
+    correo_3: 
+    url: 
+    url_1: 
+    url_2: 
+    reparto: "Raúl Méndez, Iliana Fox, Eugenio Bartilotti, Fernando Becerril, Eduardo Arroyuelo, Sophie Alexander Katz, Erick Elías, Zaide Silvia Gutiérrez, Axel Ricco, Susana Alexander, Alejandro Calva, Jorge Zárate, Gastón Melo, Edgar Vivar, Fernando Santoyo, Alejandro de Legarreta, Rubén Camelo, Carlos Manzo Otalora, Guillermo León"
+    trailer_link: 
+    video_extra: null # Use the value of a select option defined in the app/content_types/Peliculas.rb file.
+    link_video_extra: 
+    soundtrack: 
+    observaciones: 
+    agrupador_1: 
+    agrupador_2: 
+    agrupador_3: 
+    serial_renic: 
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    compania_2: 
+    locacion: 
+    animacion: 
+    clasificacion: 
+    cartel: 
+    trailer: null # Path to a file in the public/samples folder or to a remote and external file.
+    tipo: 
+- "El agente 00P2":
+    ids: 2
+    categoria: 1
+    anio: 2007
+    pais: "México"
+    duracion: 87
+    director: "Andrés Couturier "
+    produccion: "Fernando de Fuentes Sainz"
+    guion: "José Carlos García de Letona, Adolfo Martínez Vara, Andrés Couturier"
+    fotografia: 
+    edicion: "Alberto Rodríguez, Federico Unda"
+    sonido: 
+    musica: "Alejandro de Icaza"
+    direccion_de_arte: "Jorge Carrera"
+    companias_productoras: "IMCINEFIDECINE, Anima Estudios, EFICINE 226"
+    formato: "Animación/Animation"
+    sinopsis: "Tango Macaw, un obeso guacamayo que trabaja como intendente en la Central de Inteligencia Animal (CIA), sueña con llegar a ser agente secreto. La oportunidad se presenta cuando por error se le encomienda la misión más importante de la agencia detener los maléficos planes de la terrible Mamá Osa y su misteriosa organización. Tango es acompañado por Jacinto Tortugo, una vieja tortuga encargada del laboratorio de tecnología avanzada de la agencia, uno de los pocos amigos de Tango. Esta pareja dispareja se embarca en una extraordinaria y cómica aventura que los lleva a exóticos lugares en donde se enfrentan a siniestros y peligrosos personajes."
+    premios: "Mejor cine de animación de la XL Entrega de las Diosas de Plata, México 2010"
+    representante: "Ánima Estudios"
+    calle_y_numero: "Montes Urales 360"
+    imagen: samples/peliculas/Agente-00-P2.jpg
+    colonia: "Col. Lomas de Chapultepec"
+    codigo_postal: 11000
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 16
+    telefono_1: "(5255) 5202 6858 ext. 359"
+    telefono_2: 
+    movil: 
+    correo_1: "info@animaestudios.com"
+    correo_2: 
+    correo_3: 
+    url: "http//www.animaestudios.com"
+    url_1: 
+    url_2: 
+    reparto: "Jaime Camil, Dulce María, Silvia Pinal (voces/voices)"
+    tiene_trailer: 
+    trailer_link: "http//www.agente00p2.com"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Datos confirmados por Tania (07.07.2009)Actualización de datos de acuerdo a las carpetas de EFICINE (05.09.2012)"
+    agrupador_1: "Sexenal infantil"
+    agrupador_2: "Largometrajes 2007"
+    agrupador_3: "Will"
+    serial_renic: 1347048751
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 85
+    compania_2: "Ánima Estudios, EFICINE 226"
+    locacion: 
+    animacion: 
+    anio_rodaje: 0
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Amar":
+    ids: 3
+    categoria: 1
+    anio: 2009
+    pais: "México"
+    duracion: 105
+    director: "Jorge RamírezSuárez "
+    produccion: "Jorge RamírezSuárez, Raquel Guajardo, Mauricio de Aguinaco"
+    guion: "Jorge RamírezSuárez"
+    fotografia: "Luis Sansans Arnanz, AMC"
+    edicion: "Roberto Bolado, Jorge RamírezSuárez"
+    sonido: "Andrés Franco Schondube"
+    musica: "Chetes, Eduardo Gamboa, Kerigma"
+    direccion_de_arte: "Raymundo Cabrera Cyber"
+    companias_productoras: "Beanca Films, Mandala Films, EFICINE 226"
+    formato: 
+    sinopsis: "Carlos quiere pero Susana no. Joel no quiere pero Patricia lo obliga. Gabriel lo espera pero Martha no se lo da. Amado lo busca con una gringa y lo pierde. Benito lo tiene toda la vida. Concha se lo lleva más allá del sistema solar. Todos lo quieren y todos lo dan pero unos no lo reciben y otros quieren más. Así es amar."
+    premios: 
+    representante: "Beanca Films / Invierno Films"
+    calle_y_numero: "Cuyutlán 7 Altos"
+    imagen: samples/peliculas/Amar.jpg
+    colonia: "Col. Roma Sur"
+    codigo_postal: 6760
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 15
+    telefono_1: "(5255) 8421 8307"
+    telefono_2: 
+    movil: 
+    correo_1: "officebeancafilms@me.com"
+    correo_2: 
+    correo_3: 
+    url: "http//www.amarlapelicula.com"
+    url_1: "http//www.beancafilms.com"
+    url_2: 
+    reparto: "Luis Ernesto Franco, Diana García, María Aura, Martín Altomaro, Tony Dalton, Xavier López Chabelo, Isela Vega, Pedro Damián, Adal Ramones, Alejandra Barros, Katharine Towne, Gabriela Murray, Itatí Cantoral, Álvaro Guerrero, Claudia Lobo, Alberto Reyes, Eduardo Manzano, Fabiola Cervantes, Julián Urbini, Christiane Flores, Jesús Ochoa, Bruno Bichir, Rolando Garza, Hugo Iván Chavero"
+    tiene_trailer: 
+    trailer_link: 
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Datos confrmados por Tania (09.07.09)Datos del contacto actualizados por Jorge RamírezSuarez (15.04.2011)Confirmación de datos Maribel Uribe EFICINE 226 (28.02.2012)"
+    agrupador_1: "Sexenal ficción"
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1350327989
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 107
+    compania_2: "Beanca Films, Mandala Films, EFICINE 226"
+    locacion: 
+    animacion: 
+    anio_rodaje: 0
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Ángel caído Sephyro canto segundo":
+    ids: 4
+    categoria: 1
+    anio: 2010
+    pais: "México"
+    duracion: 145
+    director: "Arturo Anaya Treviño"
+    produccion: "Arturo Anaya Treviño, Raúl Vázquez Mojica, Andrés Anaya Treviño"
+    guion: "Arturo Anaya Treviño"
+    fotografia: "Juan Castillero Botello"
+    edicion: "Raúl Vázquez Mojica"
+    sonido: "Óscar Mateos"
+    musica: "Luis Leñero"
+    direccion_de_arte: "Xenia Besora"
+    companias_productoras: "Red Dragon Films, EFICINE 226"
+    formato: "35 mm"
+    sinopsis: "Desde tiempos inmemoriales comenzó una feroz batalla entre los primeros seres del universo. Luzbel y un ejército de ángeles caídos se rebelaron contra el creador e iniciaron la más terrible de las guerras. Esta épica en los cielos repercute en la raza humana y los ángeles ven con desesperanza cómo los humanos sucumben ante las tentaciones de poder y maldad que Luzbel ofrece. La batalla final está cerca y esta vez no habrá tregua. Ambos ejércitos confían en una antigua profecía que podría terminar con la guerra cuando el elegido, un niño mitad ángel mitad humano recobre la espada de fuego y entregue la victoria a uno de ellos. El fin del mundo está cerca."
+    premios: 
+    representante: "Andrés Anaya"
+    calle_y_numero: "Perugino 25203"
+    imagen: samples/peliculas/angel-caido.jpg
+    colonia: "Col. Extremadura Insurgentes"
+    codigo_postal: 3740
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 14
+    telefono_1: 
+    telefono_2: 
+    movil: 
+    correo_1: "andresanay@gmail.com"
+    correo_2: 
+    correo_3: 
+    url: "http//www.elfindelmundoestacerca.com"
+    url_1: 
+    url_2: 
+    reparto: "Sebastián Zurita, Emiliano Zurita, Humberto Zurita, José Alonso, Carlos Cacho, Laisha Wilkins, Mireya Sánchez, Luis Caballero, Alejandro Durán, Fernando Capdevielle"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/user/TheDragonrojo79#p/a/u/1/cpaUL73w98Q"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Actualización de datos de acuerdo a Maribel Uribe (15.10.2010)Actualización de datos proporcionados por Maribel Uribe (31.08.2011)Datos confirmados de Maribel Uribe EFICINE (08.03.2012)"
+    agrupador_1: 
+    agrupador_2: 
+    agrupador_3: "Cristina"
+    serial_renic: 1348523534
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 100
+    compania_2: "Red Dragon Films, EFICINE 226"
+    locacion: "Aguascalientes, Durango, Guadalajara, Hidalgo (México)"
+    animacion: 
+    anio_rodaje: 2007
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Recién cazado":
+    ids: 5
+    categoria: 1
+    anio: 2009
+    pais: "México"
+    duracion: 0
+    director: "René Bueno Camacho"
+    produccion: "René Bueno Camacho, Luisa Gómez de Silva, Marissa Gómez"
+    guion: "René Bueno Camacho"
+    fotografia: "Alberto Lee"
+    edicion: "René Bueno Camacho, Zeiddy Silva Ríos"
+    sonido: "Raúl Cebreros"
+    musica: "Giovanni Arreola, Carlos Tachiquín"
+    direccion_de_arte: "Derek Hecker"
+    companias_productoras: "IMCINEFIDECINE, Hispana de Producción"
+    formato: "35 mm"
+    sinopsis: "Esa mañana Sebastián (el soltero por excelencia) despierta para descubrir que la noche anterior, durante la parranda, ha contraído matrimonio. El susto es mayor para Alexa al darse cuenta de que su nuevo marido no recuerda lo sucedido. Sebastián quiere anularlo todo pero Alexa lo obliga a esperar tres semanas (hasta que llegue su periodo y estar segura de no estar embarazada), amenazándolo con quedarse con la mitad de su patrimonio, ya que se casaron por bienes compartidos. En tres semanas Sebastián pasa de no tolerarla a quedar perdidamente enamorado por primera vez en toda su vida, y es entonces que recibe una noticia bomba."
+    premios: "Mejor canción para cine (Quédate, Pambo) de la XL Entrega de las Diosas de Plata, México 2010"
+    representante: "Hispana de Producción, S.A. de C.V."
+    calle_y_numero: "Misión de San Diego 2951 piso 2"
+    imagen: samples/peliculas/recien_cazado_poster.jpg
+    colonia: "Zona Urbana Río Tijuana"
+    codigo_postal: 22010
+    estado_id: 2
+    localidad_id: 1
+    municipio_id: 4
+    telefono_1: "(52664) 698 52 58"
+    telefono_2: 
+    movil: 
+    correo_1: "buenorene@mac.com"
+    correo_2: 
+    correo_3: "fidecine@imcine.gob.mx"
+    url: 
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "Jaime Camil, Gabriela Vergara, Angélica Aragón, Otto Sirgo, Dino García, Verónica Segura, Aylín Mujica"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/watch?v=U1sxTgbe9zc"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Imágenes ingresadas de acuerdo al CD que proporcionó FIDECINE (marzo, 2010)Actualización de datos de acuerdo a Eleana Oropeza (12.10.2010)Confirmación de datos realizado por Eleane FIDECINE (01.03.2012)"
+    agrupador_1: 
+    agrupador_2: 
+    agrupador_3: "Cristina"
+    serial_renic: 1390307603
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 120
+    compania_2: "FIDECINE, Hispana de Producción"
+    locacion: "Distrito Federal (México)"
+    animacion: 
+    anio_rodaje: 2007
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Backyard. El traspatio":
+    ids: 6
+    categoria: 1
+    anio: 2009
+    pais: "México"
+    duracion: 120
+    director: "Carlos Carrera "
+    produccion: "Isabelle Tardán, Sabina Berman"
+    guion: "Sabina Berman"
+    fotografia: "Martín Boege, Everardo González"
+    edicion: "Óscar Figueroa"
+    sonido: "Mario Martínez Cobos, Miguel Ángel Molina, Ernesto Gaytán, Antonio Diego, Isabel Muñoz"
+    musica: "Fernando Corona"
+    direccion_de_arte: "Gloria Carrasco"
+    companias_productoras: "Indigo Films, IMCINEFOPROCINE"
+    formato: 
+    sinopsis: "La policía Blanca Bravo investiga la epidemia local de muertas cada mes, dos muertas en promedio aparecen, todas ellas jóvenes, bonitas, la mayor parte obreras de la maquila. La opinión popular habla de un asesino serial. Por su parte, Juanita Sánchez trabaja en la maquila; ganarse su sustento la ha vuelto una chava libre, desenfadada; el futuro es amplio para ella. Las historias de Blanca y Juanita se cruzarán sólo en los últimos minutos en un final estremecedor en el desierto de Juárez."
+    premios: "Director mexicano del año (Carlos Carrera), actriz mexicana del año (Ana de la Reguera) y Mejor película mexicana de la Cámara Nacional de la Industria Cinematográfica y del Videograma (CANACINE), México 2010Premio Casa América Catalunya al Mejor guión de la XVI Mostra de Cinema Llatinoamerica de Catalunya, España 2010Mejor diseño de arte (Gloria Carrasco, Lizette Ponce), sonido (Mario Martínez Cobos, Miguel Ángel Molina, Ernesto Gaytán, Antonio Diego, Isabel Muñoz), actriz (Asur Zágada), fotografía (Martín Boege, Everardo González) y dirección (Carlos Carrera) de la LII Entrega de los Arieles de la Academia Mexicana de Artes y Ciencias Cinematográficas, México 2010Premio Silver Plaque del XLV Chicago International Film Festival, EUA 2009Reflet d’Or del XV Cinema Tout Ecran, 2009"
+    representante: "Instituto Mexicano de Cinematografía (IMCINE)"
+    calle_y_numero: "Insurgentes Sur 674"
+    imagen: samples/peliculas/backyard.jpg
+    colonia: "Col. Del Valle"
+    codigo_postal: 3100
+    estado_id: 9
+    localidad_id: 122
+    municipio_id: 14
+    telefono_1: "(5255) 5448 5339, 5448 5347"
+    telefono_2: 
+    movil: 
+    correo_1: "internacional@imcine.gob.mx"
+    correo_2: "dirprom@imcine.gob.mx"
+    correo_3: 
+    url: "http//www.imcine.gob.mx"
+    url_1: 
+    url_2:
+    reparto: "Ana de la Reguera, Asur Zagada, Iván Cortés, Marco Pérez, Jimmy Smits, Alejandro Calva, Joaquín Cosío, Enoc Leaño, Carolina Politi, Amorita Rasgado, Sayed Badreya"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/watch?v=ebPEc9IGT4Q"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "EpígrafeTendremos que arrepentirnos en esta generación no tanto de las acciones de la gente perversa, sino de los pasmosos silencios de la gente buena.Martín Luther King, Jr.We will have to repent in this generation not merely for the hateful words and actions of the bad peoplebut for the appalling silence of the good peopleMartín Luther King, Jr.Datos confirmados por Paola Torres (FOPROCINE)Actualización de datos de acuerdo a la página de IMBd (27.08.2012)"
+    agrupador_1: "Sexenal ficción"
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1393283443
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 122
+    compania_2: "Tardán/Berman, FOPROCINE, Argos Comunicación, Seguros INBURSA, Coppel, EFICINE 226"
+    locacion: "Ciudad Juárez, Chihuahua, Distrito Federal (México)"
+    animacion: 
+    anio_rodaje: 0
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "El baile de San Juan":
+    ids: 7
+    categoria: 1
+    anio: 2010
+    pais: "MéxicoFranciaEspañaAlemania"
+    duracion: 130
+    director: "Francisco Athié "
+    produccion: "Francisco Athié, Gerardo Barrera, Didier Couedic, Harold Sánchez, Falk BÁ¼ttner"
+    guion: "Francisco Athié"
+    fotografia: "Ramón Suárez, Antonio Beltrán"
+    edicion: "Roger Ikhlef, Samuel Larson"
+    sonido: "Antonio Diego"
+    musica: "Samuel Maynez, Eloy Cruz"
+    direccion_de_arte: "Theresa Wachter (México), Carmen Giménez Cacho (España), Marc Denis (Francia)"
+    companias_productoras: "Arroba Filma, IMCINEFOPROCINE, EFICINE 226"
+    formato: "35 mm"
+    sinopsis: "Corre la última década del siglo XVIII en la Nueva España. La acción transcurre en la Ciudad de México, habitada por aventureros locales, pobladores nativos y europeos de toda laya. Dentro de este entorno, nuestros personajes Jerónimo Marani, coreógrafo de la corte; Giovanni, su hijo mestizo, y Victoria, hija de la familia más encumbrada de la ciudad y enamorada de Giovanni, se mueven en medio de amores y desamores, intrigas cortesanas y reivindicaciones populares, dogmas virreinales y sueños libertarios. En esta época la guerra de Independencia de México está a tan sólo unos años de dar inicio."
+    premios: 
+    representante: "Arroba Films S.A. de C.V.Francisco Athié"
+    calle_y_numero: "Atletas 2 edif. Luis Buñuel 304B"
+    imagen: samples/peliculas/baile-san-juan.jpg
+    colonia: "Col. Country Club"
+    codigo_postal: 4220
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 3
+    telefono_1: 
+    telefono_2: 
+    movil: 
+    correo_1: 
+    correo_2: "arrobafilms@prodigy.net.mx"
+    correo_3: "internacional@imcine.gob.mx, dirprom@imcine.gob.mx"
+    url: "http//www.elbailedesanjuan.com.mx"
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "José María de Tavira, Marcello Marzzarella, Arielle Dombasle, Pedro Armendáriz, Cassandra Cianguerotti, Roberto Sosa, Amelia Zapata, Antonio González, Pablo Paz, Juan Llaneras, Edna Necoechea, Antonio Rupérez, Jean Michel Noirey"
+    tiene_trailer: 
+    trailer_link: 
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Datos actualizados de acuerdo al mail de Francisco Athié (09.02.2010)Ingreso de imágenes de acuerdo al CD (31.05.2010)Actualización de datos de acuerdo a Paola Torres (20.10.2010)Actualización de datos proporcionados por Paola (08.07.2011)Reemplazo de Mónica Lozano por Gerardo Barrera en el campo de productor de acuerdo al press kit del productor (02.07.2012)Visto bueno de información por parte de Marcela Encinas (27.08.2012)"
+    agrupador_1: "Bi100 Largometrajes"
+    agrupador_2: 
+    agrupador_3: "Cristina"
+    serial_renic: 1369279732
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 120
+    compania_2: "Arroba Films, S.A. de C.V., IMCINE, FOPROCINE, EFICINE 226, Alebrije Producciones (México),  Huit Et Plus Productions (Francia), Iroko Films (España), Die Versilberte Eitelkeit (Alemania)"
+    locacion: "Tecalli, Puebla; Distrito Federal; Xochimilco (México); Ronda (España) y La Rochelle (Francia)"
+    animacion: 
+    anio_rodaje: 2008
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Me importas tú y tú":
+    ids: 8
+    categoria: 1
+    anio: 2007
+    pais: "México"
+    duracion: 0
+    director: "Adolfo Martínez Solares, Adolfo Martínez Orzynski"
+    produccion: "Santos Soberón Salgueiro"
+    guion: "Adolfo Martínez Solares, Fritz Glockner"
+    fotografia: "Keith Holland, Alberto Lee"
+    edicion: 
+    sonido: "Hugo Noriega, Carlos Aguilar"
+    musica: "Tin Tan (Sony Music)"
+    direccion_de_arte: "Malú Martínez"
+    companias_productoras: "Génesis Films, EFICINE 226"
+    formato: 
+    sinopsis: "Es la historia de Genaro, un estudiante de comunicación y empleado de un periódico, quien a través de Adriana, una compañera de la escuela, conoce la vida de Tin Tan y su filmografía. Paralelamente a estos episodios de la vida de Tin Tan, Genaro intenta conquistar a Adriana, sin mucho éxito, hasta que Tin Tan se le aparece y lo aconseja."
+    premios: "Mejor revelación masculina (Ulises de la Torre) de la XL Entrega de las Diosas de Plata, México 2010Mejor revelación femenina (Altair Jarabo) de la XL Entrega de las Diosas de Plata, México 2010Mejor papel de cuadro masculino (Marcos Valdés) de la XL Entrega de las Diosas de Plata, México 2010"
+    representante: "Génesis Films, S. A. de C. V."
+    calle_y_numero: "San Borja 5264"
+    imagen: samples/peliculas/Me_importas_tu.jpg
+    colonia: "Col. Del Valle"
+    codigo_postal: 3100
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 14
+    telefono_1: "(5255) 5559 3328, 5559 0327"
+    telefono_2: 
+    movil: 
+    correo_1: "yairmartinez@sbcglobal.net"
+    correo_2: 
+    correo_3: 
+    url: 
+    url_1: 
+    url_2: 
+    reparto: "Marcos Valdez, Altair Jarabo, Ulises de la Torre, Rafael Amaya, Carmen Salinas, María Rojo, Alejandro Nones, Luis Felipe Tovar, Gustavo Sánchez Parra"
+    tiene_trailer: 
+    trailer_link: 
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Datos confirmados por Tania (22.07.09)Se cambio titulo de acuerdo a la información vía telefónica de Gabriela (EFICINE) y la manera de como se presentó la película en las Diosas de Plata (29.04.2010)Confirmación de datos hechos por Maribel Uribe (22.02.2012)"
+    agrupador_1: 
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1348009168
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 87
+    compania_2: "Organización Soriana, Génesis Films, S.A. de C.V., EFICINE 226"
+    locacion: 
+    animacion: 
+    anio_rodaje: 0
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Los bastardos":
+    ids: 9
+    categoria: 1
+    anio: 2008
+    pais: "México"
+    duracion: 120
+    director: "Amat Escalante "
+    produccion: "Jaime Romandía"
+    guion: "Amat Escalante, Martín Escalante"
+    fotografia: "Matt Uhry"
+    edicion: "Ayhan ErgÁ¼rsel, Amat Escalante"
+    sonido: "Raúl Locatelli"
+    musica: "Jazkamer, Kid 606, Audible Landscapes, Ciril"
+    direccion_de_arte: "Daniela Schneider, ZÁ¼mrÁ¼t Á‡avusoglu"
+    companias_productoras: "Mantarraya Producciones"
+    formato: "35 mm"
+    sinopsis: "Veinticuatro horas en las vidas de Jesús y Fausto, dos jornaleros indocumentados de México en Los Ángeles. Cada día un trabajo distinto, cada día la misma presión para conseguir dinero. Siguen con su rutina diaria, parados en la esquina de un almacén de mejoras del hogar, esperando a que caiga algún trabajo. Hoy, el trabajo está bien pagado comparado a su sueldo habitual. Hoy, Jesús lleva una escopeta dentro de su mochila."
+    premios: "Premio del público al Mejor largometraje del I Festival de Cine Mexicano en Durango, México 2009Mejor película del Festival Internacional de Cine de Trondheim, Kosmorama, Noruega 2009 Premio especial del jurado del Festival Courmayeur de Film Noir, Italia 2008Mejor director del Festival Internacional de Cine de Bratislava, Eslovaquia 2008Mejor película del jurado estudiantil del Festival Internacional de Cine de Bratislava, Eslovaquia 2008Mejor película de la competencia latinoamericana del Festival de Cine de Mar del Plata, Argentina 2008Mejor largometraje mexicano del VI Festival Internacional de Cine de Morelia, México 2008Segundo premio de la crítica internacional del Festival de Cine de Lima, Perú 2008Mejor película de la sección Nuevas visiones del Festival de Cine de Sitges, España 2008"
+    representante: "Mantarraya ProduccionesJaime Romandía"
+    calle_y_numero: "Sultepec 47"
+    imagen: samples/peliculas/Los_bastardos.jpg
+    colonia: "Col. Hipódromo Condesa"
+    codigo_postal: 6170
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 15
+    telefono_1: "(5255) 5273 9307, 5515 9322"
+    telefono_2: 
+    movil: 
+    correo_1: 
+    correo_2: "info@mantarraya.com"
+    correo_3: "internacional@imcine.gob.mx, dirprom@imcine.gob.mx"
+    url: "http//www.mantarraya.com"
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "Jesús Moisés Rodríguez, Rubén Sosa, Nina Zavarin, Kenny Johnston"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/watch?v=9pcRnJGknw"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Datos confirmados por Paola Torres (FOPROCINE)Ingreso de imágenes de acuerdo al CD de Marcela Encinas (14.04.2010)Cambio de imagen e ingreso de más de acuerdo a Paola Torres (16.08.2010)Actualización de datos de acuerdo a Paola Torres (20.10.2010)Actualización de datos (el titulo en español e inglés pidió que sea el mismo) de acuerdo al mail de Emilie Saby (31.08.2012)"
+    agrupador_1: "Sexenal ficción"
+    agrupador_2: 
+    agrupador_3: "Cristina"
+    serial_renic: 1402340170
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 90
+    compania_2: "Mantarraya, Tres Tunas, Nodream Cinema, EFICINE 226, Ticomán, Le Pacte, FOPROCINE, MCM Films, UNIFIN, con el apoyo de Fonds Sud Cinéma, Ministere de la Culture et de la CommunicationCNC, Ministere des Affaires Etrangeres (France), Cinéfondation Festival de Cannes"
+    locacion: 
+    animacion: 
+    anio_rodaje: 2007
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "El baúl de Mario":
+    ids: 10
+    categoria: 1
+    anio: 2005
+    pais: "México"
+    duracion: 98
+    director: "Felipe Arellano "
+    produccion: "Cesáreo Aponte"
+    guion: "Felipe Arellano"
+    fotografia: "Emilio de la Peña ASC"
+    edicion: "Felipe Arellano"
+    sonido: "Joan Romagosa"
+    musica: "Israel Báez"
+    direccion_de_arte: "Fernando López Pelucho"
+    companias_productoras: "IMCINEFIDECINE, El Baúl Producciones"
+    formato: 
+    sinopsis: "Mientras busca un baúl que perdió a los 12 años, Fernanda se reencuentra con su primer y único amor, Mario, quien deprimido por sus fracasos amorosos intenta suicidarse. El drogadicto Punky es acechado por unos extraños demonios. Julián intenta conseguir la torta perfecta, obsesionado por el recuerdo de su difunta madre. Rosa vive día a día una batalla que la lleva a la anorexia. El fantasma de un niño que habita en el viejo baúl ronda el departamento de Mario. Un día, ocurren extraños sucesos que hacen que todos superen sus conflictos y consigan encontrar el amor."
+    premios: 
+    representante: "El Baúl Producciones"
+    calle_y_numero: "23 núm. 390 entre 42 y 42A"
+    imagen: samples/peliculas/El_baul_de_mario.jpg
+    colonia: "Fracc. Los Pinos"
+    codigo_postal: 97138
+    estado_id: 31
+    localidad_id: 1
+    municipio_id: 50
+    telefono_1: "(52999) 196 13 51"
+    telefono_2: 
+    movil: 
+    correo_1: "elbauldefepo@gmail.com"
+    correo_2: "cesareoaponte@yahoo.com.mx"
+    correo_3: "fidecine@imcine.gob.mx"
+    url: 
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "José María Torre, Andrea Torre, Mariana Rountreé, Harding Junior, Mauricio Castillo"
+    tiene_trailer: 
+    trailer_link: 
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "informacion@elbaulpro.com"
+    agrupador_1: 
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1390305686
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 98
+    compania_2: "FIDECINE, El Baúl Producciones"
+    locacion: 
+    animacion: 
+    anio_rodaje: 0
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "El brassier de Emma":
+    ids: 11
+    categoria: 1
+    anio: 2009
+    pais: "México"
+    duracion: 100
+    director: "Maryse Sistach "
+    produccion: "José Buil"
+    guion: "José Buil, Maryse Sistach"
+    fotografia: "Arturo de la Rosa"
+    edicion: "José Buil"
+    sonido: "Susana Garduño"
+    musica: "Salvador Toache, Gerardo Rosado"
+    direccion_de_arte: "Ariel Chávez"
+    companias_productoras: "IMCINEFIDECINE, Producciones Tragaluz, ECHASA, Filmoteca de la UNAM, EFICINE 226"
+    formato: "35 mm"
+    sinopsis: "Corría 1962 cuando cumplí 13 años y mis pechos empezaron a crecer. Cecilia, mi hermana, se fue a estudiar a París, y yo me quedé sola con mis papás y sus problemas. Descubrí que los pechos volvían locos a hombres y mujeres; los míos empezaron a llamar la atención de mis amigos, sin que los adultos se dieran cuenta de que yo necesitaba un brassier."
+    premios: 
+    representante: "Producciones Tragaluz"
+    calle_y_numero: "Londres 1592"
+    imagen: samples/peliculas/el_brassier_de_emma.jpg
+    colonia: "Col. Del Carmen Coyoacán"
+    codigo_postal: 4100
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 3
+    telefono_1: "(5255) 5554 3422, 5554 9549"
+    telefono_2: 
+    movil: 
+    correo_1: "builsis@prodigy.net.mx"
+    correo_2: "buil68@hotmail.com"
+    correo_3: "fidecine@imcine.gob.mx"
+    url: 
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "Sofía Espinosa, Arcelia Ramírez, Marco Treviño, Miguel Nájera, Nancy Gutiérrez, Jimena Ayala, Gabino Rodríguez, Lumi Cavazos, Ximena Sariñana, Gala Pantoja, Emilia Berjón Ramírez"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/watch?v=oBfAacLFQ4U&feature=player_embedded"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Actualización conforme a las fichas de FIDECINE. 05/09/08 A.E.Imágenes tomadas del CD que proporcionó FIDECINE para públicidad (marzo,2010)Ingreso de imágenes del CD de Marcela Encinas (30.03.2010)Actualización de datos de acuerdo a Eleana Oropeza (12.10.2010)Confirmación de datos realizado por Eleane FIDECINE (01.03.2012)"
+    agrupador_1: "Sexenal ficción"
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1390305752
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 100
+    compania_2: "FIDECINE, Producciones Tragaluz, ECHASA, EFICINE 226"
+    locacion: 
+    animacion: 
+    anio_rodaje: 2006
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Arráncame la vida":
+    ids: 12
+    categoria: 1
+    anio: 2008
+    pais: "MéxicoEspaña"
+    duracion: 0
+    director: "Roberto Sneider "
+    produccion: "Alejandro Soberón Kuri, Federico González Compeán, Roberto Sneider"
+    guion: "Roberto Sneider, basado en la novela de (based on novel by) Ángeles Mastretta"
+    fotografia: "Javier Aguirresarobe"
+    edicion: "Aleshka Ferrero"
+    sonido: "Fernando Cámara"
+    musica: "Arturo Márquez, Leonardo Heiblum, Jacobo Lieberman"
+    direccion_de_arte: "Salvador Parra"
+    companias_productoras: "IMCINEFIDECINE, Altavista Films, Videocine, EFICINE 226"
+    formato: "35 mm"
+    sinopsis: "Melodrama sobre una joven que busca su libertad en un mundo brutalmente machista. Catalina es una muchacha de clase media en la Puebla de 1930, es hermosa y tiene 15 años. Un día conoce a Andrés Ascencio, general joven, poderoso y encantador, 20 años mayor que ella, en el que ve una puerta para conocer el mundo. El General atrae a la joven inocente con su sofisticación y fuerza. Sin embargo, pocas semanas después del casamiento, todo se convierte en una pesadilla para Catalina."
+    premios: "Película mexicana más vendida en video de la Cámara Nacional de la Industria Cinematográfica y del Videograma (CANACINE), México 2010Premio ACE a la Mejor coactuación femenina (Isela Vega) de la XLII Edición de los Premios ACE, EUA 2010Mejor película, Diosa de Plata Emilio Indio Fernández a Mejor director, actor (Daniel Giménez Cacho), Diosa de Plata María Félix a Mejor actriz (Ana Claudia Talancón) y guión de la XXXIX Entrega de las Diosas de Plata, México 2009Mejor película mexicana, actriz (Ana Claudia Talancón), actor (Daniel Giménez Cacho) y director de la V Entrega de Premios de la Cámara Nacional de la Industria Cinematográfica y del Videograma (CANACINE), México 2009Mejor trailer extranjero de los Golden Trailer Awards, EUA 2009Mejor guión adaptado, diseño de arte, vestuario y maquillaje de la LI Entrega de los Arieles de la Academia Mexicana de Artes y Ciencias Cinematográficas, México 2009"
+    representante: "Altavista Films"
+    calle_y_numero: "Av. Industria Militar s/n puerta 2"
+    imagen: samples/peliculas/Arrancame-la-vida.jpg
+    colonia: "Col. Residencial Militar"
+    codigo_postal: 11600
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 16
+    telefono_1: "(5255) 5201 9001"
+    telefono_2: 
+    movil: 
+    correo_1: "mlozano@altavistafilms.com.mx"
+    correo_2: 
+    correo_3: "fidecine@imcine.gob.mx"
+    url: "http//www.altavistafilms.com"
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "Ana Claudia Talancón, Daniel Giménez Cacho, José María de Tavira, Isela Vega"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/watch?v=Pn3F_7nGbiM"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Premio registrado de acuerdo al artículo del periódico El Sol de México (13.01.2010) Pag. 4e Sección EscenaImágenes tomadas del CD que proporcionó FIDECINE para públicidad (marzo, 2010)Visto bueno de datos proporcionados por Eleane (FIDECINE) 22.02.2012"
+    agrupador_1: "Sexenal ficción"
+    agrupador_2: 
+    agrupador_3: "Jonathan"
+    serial_renic: 1390304401
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 110
+    compania_2: "FIDECINE, Altavista Films, La Banda Films, Gobierno del Estado de Puebla, Oberón Cinematográfica (España),  EFICINE 226"
+    locacion: 
+    animacion: 
+    anio_rodaje: 2007
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Las buenas hierbas":
+    ids: 13
+    categoria: 1
+    anio: 2010
+    pais: "México"
+    duracion: 110
+    director: "María Novaro "
+    produccion: "Julio Bárcenas, María Novaro"
+    guion: "María Novaro"
+    fotografia: "Gerardo Barroso"
+    edicion: "María Novaro, Sebastián Garza"
+    sonido: "Pablo Tamez, Alfredo Loaeza"
+    musica: "Santiago Chávez, Judith de León"
+    direccion_de_arte: "Lorenza Manrique"
+    companias_productoras: "Axolote Cine, ECHASA, IMCINEFOPROCINE"
+    formato: "35 mm"
+    sinopsis: "La vida de Dalia cambia cuando tiene que confrontar la enfermedad de Alzheimer que padece Lala, su madre, una científica etnobotánica. Un relato sobre la química del cerebro, la química de las plantas y las emociones humanas; los lazos invisibles que unen a los seres vivos con sus muertos y con la naturaleza a la que todos pertenecemos; la herencia herbolaria mexicana que da cuenta de ciertas plantas que ayudan a curar el alma."
+    premios: "Diosa de Plata María Félix a actriz (Ášrsula Pruneda), Silvia Derbez a coactuación femenina (Ofelia Medina) y Papel de cuadro femenino (Ana Ofelia Murguía) de la XLI Entrega de las Diosas de Plata PECIME, México 2011Mejor coactuación femenina (Ofelia Medina) y Mejores efectos visuales de la LIII Entrega de los Arieles de la Academia Mexicana de Artes y Ciencias Cinematográficas, México 2011Premio Ciguapa a la mejor música y Mención de honor de la XIII Muestra Internacional de Cine de Santo Domingo, República Dominicana 2011Tercer Premio Coral como Mejor película y música original del XXXII Festival Internacional del Nuevo Cine Latinoamericano, Cuba 2010Mejor guión y actriz del VII Festival de Cine de Amazonas, Brasil 2010Premio Marc½ Aurelio como Mejores actrices (Ana Ofelia Murguía, Ášrsula Pruneda y Ofelia Medina) del Festival Internacional de Cine de Roma, 2010Mejor guión, actriz (Ášrsula Pruneda), fotografía, Premio Mezcal (jurado joven) al Mejor largometraje mexicano de ficción, Premio de distribución latinofusión al Mejor largometraje mexicano de ficción, Premio FIPRESCI (Federación Internacional de Crítica de Cine) al Mejor largometraje mexicano de ficción y Premio del público cinecolor al Mejor largometraje mexicano de ficción del XXV Festival Internacional de Cine en Guadalajara, México 2010"
+    representante: "Axolote Cine, S.A. de C.V.María Novaro / Julio Bárcenas"
+    calle_y_numero: "Cerro del Hombre 200"
+    imagen: samples/peliculas/las_buenas_hierbas.png
+    colonia: "Col. Romero de Terreros"
+    codigo_postal: 4320
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 3
+    telefono_1: "(5255) 3700 3141, 3711 7476"
+    telefono_2: 
+    movil: 
+    correo_1: "axolotecine@gmail.com"
+    correo_2: 
+    correo_3: "internacional@imcine.gob.mx, dirprom@imcine.gob.mx"
+    url: "http//www.axolotecine.com"
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "Ášrsula Pruneda, Ofelia Medina, Ana Ofelia Murguía, Miriam Balderas, Cosme González Muñoz, Gabino Rodríguez, Alberto Estrella, Rodrigo Solís, Luisa Pardo"
+    tiene_trailer: 
+    trailer_link: "http//www.lasbuenashierbas.com"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: "http//www.lasbuenashierbas.com"
+    observaciones: "Arte digital Alejandro VallePostproducción Pedro de la Garza y Bulmaro OsornioDatos confirmados por Paola Torres (FOPROCINE)Ingreso de imágenes de acuerdo al CD de Marcela Encinas (14.04.2010)Actualización de información de acuerdo a Maribel Uribe (01.10.2010)Actualización de datos de acuerdo a Paola Torres (20.10.2010)Visto bueno de información por parte de Marcela Encinas (27.08.2012)"
+    agrupador_1: "Sexenal ficción"
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1352327027
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 120
+    compania_2: "Axolote Cine, ECHASA, IMCINE, FOPROCINE, CUEC, CCC, EFICINE 226"
+    locacion: "Distrito Federal y Huautla de Jiménez, Oaxaca (México)"
+    animacion: 
+    anio_rodaje: 2009
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Cochochi":
+    ids: 14
+    categoria: 1
+    anio: 2007
+    pais: "México"
+    duracion: 90
+    director: "Israel Cárdenas, Laura Amelia Guzmán "
+    produccion: "Pablo Cruz, Donald K. Ranvaud"
+    guion: "Israel Cárdenas, Laura Amelia Guzmán"
+    fotografia: "Israel Cárdenas, Laura Amelia Guzmán"
+    edicion: "Laura Amelia Guzmán, Israel Cárdenas, Yibran Asuad"
+    sonido: "Federico Schmucler"
+    musica: "Leonardo Heiblum, Juan Nevares, José Ángel Rodríguez"
+    direccion_de_arte: 
+    companias_productoras: "Canana, Buena Onda Films, Lumina Films, IMCINE"
+    formato: 
+    sinopsis: "Evaristo y Tony, dos hermanos rarámuri, han terminado la escuela primaria. Durante las vacaciones el abuelo les encarga ir a dejar unas medicinas a una ranchería lejana. Tony piensa que para esto es indispensable ir a caballo, aun cuando el abuelo no se los preste. Durante el viaje pierden al equino. Ahora Evaristo y Tony, cada quien por su lado, tienen que encontrar al animal y entregar el encargo del abuelo."
+    premios: "Mención especial en el International Documentary Film Festival of Amsterdam, Buenos Aires, Argentina 2008Premio especial del jurado del Festival Internacional de Cine Valdivia, Chile 2008Mejor director providence del Festival de Cine Latinoamericano de Londres 2008Mejor película, excelencia de lenguaje técnico y Premio de calidad artística del Festival de Gramado, Brasil 2008Mención especial en la sección Ópera prima del Festival Internacional de Cine Latino de Los Ángeles, USA 2008Gran premio del jurado al Mejor filme iberoamericano del XXV Festival Internacional de Cine de Miami, EUA 2007Grand Prix Coup de C?ur des 20Á¨mes Rencontres Cinémas D½Amérique Latine de Toulouse, Francia 2007Prix FIPRESCI de la PremiÁ¨re ?uvre des 20Á¨mes Rencontres Cinémas D½Amérique Latine de Toulouse, Francia 2007Premio Discovery del Toronto International Film Fest, Canadá 2007Premio FIPRESCI de la Federación Internacional de la Crítica Cinematográfica del Festival de Gijón 2007"
+    representante: "CANANAPablo Cruz"
+    calle_y_numero: "José María Tornel 14"
+    imagen: samples/peliculas/cochochi.jpg
+    colonia: "Col. San Miguel Chapultepec"
+    codigo_postal: 11850
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 16
+    telefono_1: "(5255) 4777 7935"
+    telefono_2: 
+    movil: 
+    correo_1: "pablo@canana.net"
+    correo_2: 
+    correo_3: "internacional@imcine.gob.mx, dirprom@imcine.gob.mx"
+    url: "http//www.cochochi.com.mx"
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "Luis Antonio Lerma Torres, Evaristo Corpus Lerma Torres, José Ángel Torres, José Ignacio Torres, Luis Alfredo Villalobos, Cristóbal Nevares, Juan Nevares, Manuela Torres, Luis Marcial Bernardino Torres, María Rosa Rodríguez, Silverio Villalobos"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/watch?v=YOHcSNUtJkE"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Datos confirmados por FOPROCINE (Angélica)Ingreso de imágenes de acuerdo al CD de Marcela Encinas (12.05.2010)"
+    agrupador_1: "Sexenal ficción"
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1350336391
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 90
+    compania_2: "CANANA, Buena Onda Films, Lumina Films, IMCINE"
+    locacion: 
+    animacion: 
+    anio_rodaje: 0
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "¿¡Cómo no te voy a querer!?":
+    ids: 15
+    categoria: 1
+    anio: 2008
+    pais: "México"
+    duracion: 110
+    director: "Víctor Avelar "
+    produccion: "Julio Bárcenas, Liliana Pardo, Ángeles Castro"
+    guion: "Víctor Jesús Avelar Martínez"
+    fotografia: "Héctor Maeshiro"
+    edicion: "Lourdes Rebora, Víctor Jesús Avelar Martínez"
+    sonido: "Mario Martínez"
+    musica: "Alejandro Marcovich"
+    direccion_de_arte: "Laura Barroetaveña"
+    companias_productoras: "CCC, IMCINEFOPROCINE"
+    formato: "35 mm"
+    sinopsis: "Hugo y Julia son estudiantes del CCH con diferentes sueños y metas. La forma de ser de cada uno los hará seguir caminos distintos, aprendiendo que todo en esta vida tiene un precio y que cada quien tendrá que pagar el suyo."
+    premios: "Premio Corazón al Mejor largometraje del San Diego Latino Film Festival, EUA 2009"
+    representante: "Centro de Capacitación Cinematográfica (CCC)"
+    calle_y_numero: "Calz. de Tlalpan 1670"
+    imagen: samples/peliculas/como_no_te_voy_a_querer.jpg
+    colonia: "Col. Country Club"
+    codigo_postal: 4220
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 3
+    telefono_1: "(5255) 4155 0090 ext. 1813"
+    telefono_2: 
+    movil: 
+    correo_1: "divulgacion@elccc.com.mx"
+    correo_2: 
+    correo_3: "internacional@imcine.gob.mx, dirprom@imcine.gob.mx"
+    url: "http//www.elccc.com.mx"
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "Alejandro Belmonte, Siouzana Melikián, Arcelia Ramírez, Daniel Martínez, Jorge Zárate, Natalia Esperon"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/watch?v=a1qdEJJHJvY"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Género / Genre Drama/DramIdea original / Original idea Víctor Jesús Avelar MartínezDatos confirmados por Jessy Vega a través de un CDActualización de datos de acuerdo a la información presentada en la página del CCC (18.05.2012)Actualización de datos de acuerdo a la información proporcionada por Boris Miramontes CCC 30.05.2012"
+    agrupador_1: 
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1371524690
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 80
+    compania_2: "CCC, FOPROCINE, con el apoyo del CUEC"
+    locacion: "Distrito Federal (México)"
+    animacion: 
+    anio_rodaje: 2007
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Condones.com":
+    ids: 16
+    categoria: 1
+    anio: 2009
+    pais: "México"
+    duracion: 93
+    director: "Mario Abraham Mancilla"
+    produccion: "Darío Jiménez Toral"
+    guion: "Mario A. Mancilla, Rosa María Chávez"
+    fotografia: "Arturo de la Rosa"
+    edicion: "Sigfrido García"
+    sonido: "Enrique Kuhlmann, Alberto GÁ¼ero Castro"
+    musica: "Piro, Ritmo Peligroso"
+    direccion_de_arte: "Itzeel Reyes"
+    companias_productoras: "IMCINEFIDECINE, Digital Real Fidelity, ECHASA"
+    formato: "35 mm"
+    sinopsis: "Comedia juvenil de enredos y situaciones cuyas principales motivaciones son las relaciones de amor y deseo entre los adolescentes y las consecuencias generadas por la falta de uso del preservativo."
+    premios: 
+    representante: "Digital Real Fidelity"
+    calle_y_numero: "Tekit 359 casa 1"
+    imagen: samples/peliculas/condomes_com.jpg
+    colonia: "Col. Héroes de Padierna"
+    codigo_postal: 14200
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 12
+    telefono_1: "(5255) 8502 2739, 8502 7778"
+    telefono_2: 
+    movil: 
+    correo_1: "proav@prodigy.net.mx"
+    correo_2: 
+    correo_3: "dario.dirección@proavdrf.com.mx"
+    url: "http//www.lapeliculacondones.com.mx/"
+    url_1: 
+    url_2: "http//www.imcine.gob.mx"
+    reparto: "Sandra Echeverría, Ramón Márquez, Martha Acuña, Mark Tacher, Piro, Sabo Romo, Gerardo Albarrán, Irene Arcila, Francisco Mondragón, Michel Brown, Milagros Rueda, Lucha Moreno, Rafael Goyri"
+    tiene_trailer: 
+    trailer_link: "http//www.youtube.com/watch?v=V2N6xanGTY"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Actualización de datos de acuerdo a Eleana Oropeza (12.10.2010)Confirmación de datos realizado por Eleane FIDECINE (01.03.2012)"
+    agrupador_1: 
+    agrupador_2: 
+    agrupador_3: "Will"
+    serial_renic: 1348009332
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: "FIDECINEInsurgentes Sur 674Col. Del ValleCP 03100, Benito Juárez, Distrito FederalTel. (5255) 5448 5386, 5448 5304"
+    duracion_2: 93
+    compania_2: "FIDECINE, Digital Real Fidelity, ECHASA"
+    locacion: 
+    animacion: 
+    anio_rodaje: 2006
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
+- "Conozca la cabeza de Juan Pérez":
+    ids: 17
+    categoria: 1
+    anio: 2009
+    pais: "México"
+    duracion: 120
+    director: "Emilio Portes Castro"
+    produccion: "Rodrigo Herranz Fanjul"
+    guion: "Emilio Portes Castro"
+    fotografia: "Ramón Orozco Stoltemberg"
+    edicion: "Rodrigo Ríos, Yibrán Assaud, Emilio Portes"
+    sonido: "Alfredo Loaeza"
+    musica: "Aldo Max Rodríguez"
+    direccion_de_arte: "Diana Saade"
+    companias_productoras: "IMCINEFOPROCINE, CCC, Ultra Films"
+    formato: "35 mm"
+    sinopsis: "Lejos de su cuerpo, la cabeza cercenada de Juan Pérez El Grandioso (un mago de quinta) comienza a recordar cómo fue a perder la cabeza. Después de una espantosa crisis sexenal y para no perder el empleo en su amado circo, Juan Pérez promete montar un sensacional acto de decapitación que bien podría regresarle sus días de gloria. Con el tiempo encima y sin un quinto para construir una máquina así, nuestro mago se verá obligado a robar una guillotina verdadera, sin saber que sobre ésta pesa una terrible maldición."
+    premios: "Mejores efectos visuales (Christian Rivera y Gretel), Mejores efectos especiales (Daniel Cordero), Mejor vestuario (Josefina Echeverría) y Mejor coactuación masculina (José Sefami) del LII Entrega de los Arieles de la Academia Mexicana de Artes y Ciencias Cinematográficas, México 2010Tatu Tumpa al Mejor guión del XI Festival Iberoamericano de Cine de Santa Cruz, Bolivia 2009Mejor dirección de producción del XI Festival Iberoamericano de Cine de Santa Cruz, Bolivia 2009Tatu Tumba a la Mejor ópera prima del XI Festival Iberoamericano de Cine de Santa Cruz, Bolivia 2009Premio Corazón al Mejor largometraje del San Diego Latino Film Festival, EUA 2009Premio de la Prensa del Festival Internacional de Cine Expresión en Corto, México 2008Mejor ópera prima mexicana del XXIII Festival Internacional de Cine en Guadalajara, México 2008Mejor actriz (Dolores Heredia) del XXIII Festival Internacional de Cine en Guadalajara, México 2008"
+    representante: "Centro de Capacitación Cinematográfica (CCC)"
+    calle_y_numero: "Calz. de Tlalpan 1670"
+    imagen: samples/peliculas/conozca_la_cabeza_de_juan_perez.jpg
+    colonia: "Col. Country Club"
+    codigo_postal: 4220
+    estado_id: 9
+    localidad_id: 1
+    municipio_id: 3
+    telefono_1: "(5255) 4155 0090 ext. 1813"
+    telefono_2: 
+    movil: 
+    correo_1: "divulgacion@elccc.com.mx"
+    correo_2: 
+    correo_3: "internacional@imcine.gob.mx, dirprom@imcine.gob.mx"
+    url: "http//www.elccc.com.mx"
+    url_1: "http//www.imcine.gob.mx"
+    url_2: 
+    reparto: "Silverio Palacios, Dolores Heredia, José Sefami, Carlos Cobos, María Aura, Ernesto Yáñez, Dagoberto Gama, Rubén Cristiani, Alejandro Calva, Isela Vega"
+    tiene_trailer: 
+    trailer_link: "http//www.elccc.com.mx"
+    video_extra: 
+    link_video_extra: 
+    soundtrack: 
+    observaciones: "Género / Genre ComediaIdea original / Original idea Emilio PortesDatos confirmados por Jessy Vega a través de un CDIngreso de imágenes de acuerdo al CD de Marcela Encinas 24.05.2010Actualización de datos de acuerdo a Paola Torres (20.10.2010)"
+    agrupador_1: 
+    agrupador_2: 
+    agrupador_3: "Cristina"
+    serial_renic: 1365478756
+    nombre_contacto_1: 
+    nombre_contacto_2: 
+    nombre_contacto_3: 
+    duracion_2: 85
+    compania_2: "CCC, FOPROCINE, Las Producciones del Patrón"
+    locacion: "Distrito Federal y Santa María Regla, Hidalgo (México)"
+    animacion: 
+    anio_rodaje: 2006
+    clasificacion: "sin"
+    cartel: 
+    trailer: 
+    tipo: 
