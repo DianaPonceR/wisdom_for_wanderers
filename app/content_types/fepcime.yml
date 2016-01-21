@@ -1,0 +1,78 @@
+# Human readable name of this type
+name: Fepcime
+
+# Lowercase, underscored handle used to access this type
+slug: fepcime
+
+# Explanatory text displayed in the back-office
+description: Fichero Electronico de Proyectos Cinematograficos Mexicanos
+
+# Slug of field used to identify entries by default, such as the title
+label_field_name: title
+
+# Valid values: manually, created_at, updated_at, or the slug of any field
+order_by: title
+
+# Valid values: asc (ascending) and desc (descending). Set to asc by default.
+# order_direction: asc
+
+# Specify a field slug to group entries by that field in the back-office.
+# group_by: <your field>
+
+# Activate public 'create' API (e.g for a contact form)
+# public_submission_enabled: false
+
+# Array of emails to be notified of new entries made with the public API
+# public_submission_accounts: ['john@example.com']
+
+# A list describing each field
+fields: 
+- title: # The lowercase, underscored name of the field
+    label: Title # Human readable name of the field
+    type: string
+    required: true
+    # hint: Explanatory text displayed in the back office
+    localized: false
+
+- writer: # The lowercase, underscored name of the field
+    label: Writer # Human readable name of the field
+    type: string
+    required: false
+    hint: Explanatory text displayed in the back office
+    localized: false
+
+- director: # The lowercase, underscored name of the field
+    label: Director # Human readable name of the field
+    type: string
+    required: false
+    # hint: Explanatory text displayed in the back office
+    localized: false
+
+- category: # The lowercase, underscored name of the field
+    label: Category # Human readable name of the field
+    type: string
+    required: false
+    # hint: Explanatory text displayed in the back office
+    localized: false
+
+- genre: # The lowercase, underscored name of the field
+    label: Genre # Human readable name of the field
+    type: string
+    required: false
+    # hint: Explanatory text displayed in the back office
+    localized: false
+
+- responsable: # The lowercase, underscored name of the field
+    label: Responsable # Human readable name of the field
+    type: string
+    required: false
+    # hint: Explanatory text displayed in the back office
+    localized: false
+
+- synopsis: # The lowercase, underscored name of the field
+    label: Synopsis # Human readable name of the field
+    type: text
+    required: false
+    hint: Sinopsis completa
+    localized: false
+    text_formatting: html # html (uses rich text editor) or text (uses plain text editor)

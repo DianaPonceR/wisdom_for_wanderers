@@ -1,0 +1,422 @@
+---
+name: Peliculas
+description: A description of the content type for the editors
+slug: peliculas
+label_field_name: nombre
+order_by: nombre
+order_direction: asc
+fields:
+- nombre:
+    label: Nombre
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: true
+    unique: false
+    localized: false
+- ids:
+    label: Ids
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- categoria:
+    label: Categoria
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- anio:
+    label: Anio
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- pais:
+    label: Pais
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- duracion:
+    label: Duracion
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- director:
+    label: Director
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- produccion:
+    label: Produccion
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- guion:
+    label: Guion
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- fotografia:
+    label: Fotografia
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- edicion:
+    label: Edicion
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- sonido:
+    label: Sonido
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- musica:
+    label: Musica
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- direccion_de_arte:
+    label: Direccion de arte
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- companias_productoras:
+    label: Companias productoras
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- formato:
+    label: Formato
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- sinopsis:
+    label: Sinopsis
+    type: text
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- premios:
+    label: Premios
+    type: text
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- representante:
+    label: Representante
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- calle_y_numero:
+    label: Calle y numero
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- imagen:
+    label: Imagen
+    type: file
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- colonia:
+    label: Colonia
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- codigo_postal:
+    label: Codigo postal
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- estado_id:
+    label: Estado
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- localidad_id:
+    label: Localidad
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- municipio_id:
+    label: Municipio
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- telefono_1:
+    label: Telefono 1
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- telefono_2:
+    label: Telefono 2
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- movil:
+    label: Movil
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- correo_1:
+    label: Correo 1
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- correo_2:
+    label: Correo 2
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- correo_3:
+    label: Correo 3
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- url:
+    label: Url
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- url_1:
+    label: Url 1
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- url_2:
+    label: Url 2
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- reparto:
+    label: Reparto
+    type: text
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- tiene_trailer:
+    label: Tiene trailer
+    type: boolean
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- trailer_link:
+    label: Trailer link
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- video_extra:
+    label: Video extra
+    type: select
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+    select_options:
+    - option 1
+    - option 2
+    - option 3
+- link_video_extra:
+    label: Link video extra
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- soundtrack:
+    label: Soundtrack
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- observaciones:
+    label: Observaciones
+    type: text
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- agrupador_1:
+    label: Agrupador 1
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- agrupador_2:
+    label: Agrupador 2
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- agrupador_3:
+    label: Agrupador 3
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- serial_renic:
+    label: Serial renic
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- nombre_contacto_1:
+    label: Nombre contacto 1
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- nombre_contacto_2:
+    label: Nombre contacto 2
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- nombre_contacto_3:
+    label: Nombre contacto 3
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- duracion_2:
+    label: Duracion 2
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- compania_2:
+    label: Compania 2
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- locacion:
+    label: Locacion
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- animacion:
+    label: Animacion
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- anio_rodaje:
+    label: Anio rodaje
+    type: integer
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- clasificacion:
+    label: Clasificacion
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- cartel:
+    label: Cartel
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- trailer:
+    label: Trailer
+    type: file
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false
+- tipo:
+    label: Tipo
+    type: string
+    hint: Explanatory text displayed in the back office
+    required: false
+    unique: false
+    localized: false

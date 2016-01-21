@@ -1,26 +1,22 @@
 ---
 title: About
-
-# true if the page is included in the menu
+slug: about
+is_layout: false
+allow_layout: false
 listed: true
-# true if the page is published
 published: true
-
-# true if the page can be used as a layout for new pages created by the editors
-# is_layout: true
-
-# position among sibling pages
+cache_strategy: none
+response_type: text/html
 position: 1
-
-# sets a redirection to the given url (301)
-# redirect_url: "<url to a page or to a remote url>"
-
-# content type that this page is templatizing
-# content_type: "<slug of one of the content types>"
-
-# editable_elements:
-#   'some_block/some_slug': "<text>"
-#   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
+editable_elements:
+  main/featured_photo/caption: Gyeongbokgung, Seoul
+  main/about_body: ! "<p>\n\t      Thanks for visiting Wisdom for Wanders!\n\t      This
+    blog aims to introduce readers to cool things to see, eat, and do all over the
+    world. And along the way, I'll share some handy travel tips that can make wandering
+    the globe easier and more fun than ever.\n\t      The blog tends to focus on sights
+    and places a little off the tourist trail, so unadventurous beware.\n\t    </p>\n\t
+    \   <p>\n\t      I hope you enjoy the site and bon voyage!\n\t    </p>"
+  main/featured_photo/photo: /samples/pages/gyeongbokgung-full.jpg
 ---
 {% extends parent %}
 
@@ -32,7 +28,7 @@ position: 1
 	      Gyeongbokgung, Seoul
 	    {% endeditable_text %}
 	  {% endcapture %}
-	  {% capture photo %}{% editable_file "photo" %}/samples/pages/gyeongbokgung-full.jpg{% endeditable_file %}{% endcapture %}
+	  {% capture photo %}{% editable_file "photo" %}/sites/568c4f0f2ae856b500000002/assets/568c53292ae856599e000007/gyeongbokgung-full.jpg{% endeditable_file %}{% endcapture %}
 
 	{% include 'img_box' with caption, photo, size: "400x" %}
 
